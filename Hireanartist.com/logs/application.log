@@ -1,0 +1,58 @@
+2024-05-01 18:09:24,580 [main] INFO Post A Job - Browser Opened Successfully
+2024-05-01 18:09:27,040 [main] INFO Post A Job - Successfully Navigated to Hireanartist url 
+2024-05-01 18:09:27,453 [main] INFO Post A Job - Successfully Clicked On the accepet Cookies Button
+2024-05-01 18:09:28,087 [main] INFO Post A Job - Post A Job Element Is Having Expected Post a job Text
+2024-05-01 18:09:28,111 [main] INFO Post A Job - Let's Start With the Basics Element Is Having Expected Let's start with the basics Text
+2024-05-01 18:09:28,160 [main] INFO Post A Job - Successfully Clicked On the Give Your Project A Name TextField
+2024-05-01 18:09:28,593 [main] INFO Post A Job - Successfully Entered Public Window Mural – CanadaInto give Your Project A Name Textfield
+2024-05-01 18:09:28,658 [main] INFO Post A Job - Successfully Clicked On the Mural/Graffiti Options
+2024-05-01 18:09:28,745 [main] INFO Post A Job - Successfully Clicked On the Window CheckBox
+2024-05-01 18:09:28,794 [main] INFO Post A Job - Successfully Clicked On the Width Textfield
+2024-05-01 18:09:28,847 [main] INFO Post A Job - Successfully Entered 5Into width Textfield
+2024-05-01 18:09:28,895 [main] INFO Post A Job - Successfully Clicked On the height Textfield
+2024-05-01 18:09:28,943 [main] INFO Post A Job - Successfully Entered 5Into Hight Textfield
+2024-05-01 18:09:29,008 [main] INFO Post A Job - Successfully Clicked On the ft. Option
+2024-05-01 18:09:29,032 [main] INFO Post A Job - Successfully scrolled till Location Of The Project Textfield
+2024-05-01 18:09:29,077 [main] INFO Post A Job - Successfully Clicked On the Location Of The Project Textfield
+2024-05-01 18:09:29,181 [main] INFO Post A Job - Successfully Entered CanadaInto location Of The Project Textfield
+2024-05-01 18:09:29,218 [main] INFO Post A Job - Successfully Clicked On the Location Of The Project Textfield
+2024-05-01 18:09:31,380 [main] INFO Post A Job - Successfully Selected location Of The Project
+2024-05-01 18:09:31,558 [main] INFO Post A Job - Successfully Clicked On the Public/Government Option
+2024-05-01 18:09:31,707 [main] INFO Post A Job - Successfully Clicked On the Continue Button
+2024-05-01 18:09:31,727 [main] INFO Post A Job - Design Text Element Is Having Expected Design Text
+2024-05-01 18:09:31,782 [main] INFO Post A Job - Successfully Clicked On the No idea radio button Option
+2024-05-01 18:09:31,815 [main] INFO Post A Job - Successfully Clicked On the Job Description Textarea
+2024-05-01 18:09:32,730 [main] INFO Post A Job - Successfully Entered We are seeking an experienced mural artist to create a captivating mural for a public window space measuring 5ft x 5ft in Canada.Into job Description Textarea
+2024-05-01 18:09:32,762 [main] INFO Post A Job - Successfully scrolled till Attach file Button
+2024-05-01 18:09:32,800 [main] INFO Post A Job - Successfully Clicked On the Attachfile Button
+2024-05-01 18:09:37,241 [main] INFO Post A Job - Successfully Uploaded C:\Users\user\eclipse-workspace\Hireanartist.com\Dummy File.pngTo Attach file button
+2024-05-01 18:09:37,388 [main] INFO Post A Job - Successfully Clicked On the Continue Button
+2024-05-01 18:09:37,410 [main] INFO Post A Job - Budget And Timeline Textt Element Is Having Expected Budget & Timeline Text
+2024-05-01 18:09:37,454 [main] INFO Post A Job - Successfully Clicked On Budget Ammount Textfield
+2024-05-01 18:09:37,526 [main] INFO Post A Job - Successfully Entered 100.5Into budget Ammount textfield
+2024-05-01 18:09:37,696 [main] INFO Post A Job - Successfully Clicked On Currency Type Dropdown
+2024-05-01 18:09:37,749 [main] INFO Post A Job - Successfully Entered CADInto Currency Type Dropdown
+2024-05-01 18:09:38,488 [main] INFO Post A Job - Successfully scrolled till On data date picker
+2024-05-01 18:09:38,581 [main] INFO Post A Job - Successfully Clicked On On Date Picker
+2024-05-01 18:09:38,675 [main] INFO Post A Job - Successfully Clicked On 2024-05-01
+2024-05-01 18:09:38,807 [main] INFO Post A Job - Successfully Clicked On the Continue Button
+2024-05-01 18:09:38,839 [main] INFO Post A Job - contact Information Textt Element Is Having Expected Contact Information Text
+2024-05-01 18:09:38,911 [main] INFO Post A Job - Successfully Clicked On the An Individual Option
+2024-05-01 18:09:39,014 [main] INFO Post A Job - Successfully Clicked On Phone Number Textfiled
+2024-05-01 18:09:39,228 [main] INFO Post A Job - Successfully Entered 9880756966 Into Phone Number Textfiled
+2024-05-01 18:09:39,493 [main] INFO Post A Job - Successfully Clicked On First Namer Textfiled
+2024-05-01 18:09:39,607 [main] INFO Post A Job - Successfully Entered RamS Into First Name Textfiled
+2024-05-01 18:09:39,757 [main] INFO Post A Job - Successfully Clicked On Last Namer Textfiled
+2024-05-01 18:09:39,895 [main] INFO Post A Job - Successfully Entered LaxmanR Into Last Name Textfiled
+2024-05-01 18:09:40,018 [main] INFO Post A Job - Successfully Clicked On Email ID Textfiled
+2024-05-01 18:09:40,271 [main] INFO Post A Job - Successfully Entered ramLkl@gmail.com Into Email ID Textfiled
+2024-05-01 18:09:40,387 [main] INFO Post A Job - Successfully Clicked On Password Textfiled
+2024-05-01 18:09:40,596 [main] INFO Post A Job - Successfully Entered Password@856 Password Textfiled
+2024-05-01 18:09:40,673 [main] INFO Post A Job - Successfully scrolled till Save And Submit Button
+2024-05-01 18:09:40,750 [main] INFO Post A Job - Successfully Clicked On terms And Condutions Checkbox
+2024-05-01 18:09:40,790 [main] INFO Post A Job - Successfully Switched To Captcha Iframe
+2024-05-01 18:09:40,956 [main] INFO Post A Job - Successfully Clicked On Iam Not A RobotCheckbox
+2024-05-01 18:09:55,965 [main] INFO Post A Job - Successfully Backed To parent Iframe
+2024-05-01 18:09:56,077 [main] INFO Post A Job - Successfully Clicked On Save And Submit Button
+2024-05-01 18:09:56,107 [main] INFO Post A Job - Job Posted Success Message Textt Element Is Having Expected Your job has been submitted! Text
+2024-05-01 18:09:56,263 [main] INFO Post A Job - Successfully Closed The Browser

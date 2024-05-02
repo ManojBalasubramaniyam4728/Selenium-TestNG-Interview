@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.ITestListener.listeneres"/>
+    <listener class-name="com.Utils.extentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.PostAJob.TC001_Verify_The_Job_Posting_Functionality_With_Different_Scenarios">
+        <methods>
+          <include name="close_browser"/>
+          <include name="open_Browser_And_Navigate_To_Vtiger_Url_And_Login_To_Application"/>
+          <include name="Post_A_Job"/>
+        </methods>
+      </class> <!-- com.PostAJob.TC001_Verify_The_Job_Posting_Functionality_With_Different_Scenarios -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Regression] -->
